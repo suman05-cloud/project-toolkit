@@ -1,0 +1,11 @@
+python-multipart
+fastapi
+uvicorn
+aiofiles
+python-docx
+python-pptx
+openpyxl
+PyPDF2
+img2pdf
+pdf2image
+Pillow
